@@ -1,0 +1,18 @@
+!c
+#0
+!
+!history
+echo hello
+echsd
+sleep asdf
+#0
+#5
+!echs
+cd libs
+cd ..
+cd includes
+cd ..
+ls
+sleep 2
+echo Finished!
+!history
